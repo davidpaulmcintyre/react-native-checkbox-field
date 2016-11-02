@@ -9,10 +9,11 @@ This is a fork of react-native-checkbox-field (https://github.com/vincee48/react
 
 ### Installation
 Add the dependency to the package.json:
+```json
 `"dependencies": {
-    "react-native-checkbox-field": "git+https://github.com/davidpaulmcintyre/react-native-checkbox-field.git",
-   
+    "react-native-checkbox-field": "git+https://github.com/davidpaulmcintyre/react-native-checkbox-field.git", 
 }
+```
 then run :
 `npm install`
 
