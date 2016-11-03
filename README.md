@@ -107,7 +107,7 @@ Example project can be found for both Android and iOS in /examples
 - `onSelect` (Function) `null` - The function that is run when the checkbox is selected
 - `selected` (Boolean) `false` - The value representing the selected state
 - `disabled` (Boolean) `false` - Whether the checkbox can receive user interactions
-- `disabledColor` (String) `#247fd2` - The background color when the checkbox is disabled
+- `disabledColor` (String) `null` - The background color when the checkbox is disabled
 - `children` (React.Component) `null` - The component within the checkbox
 - `defaultColor` (String) `#fff` - The default color of the checkbox background
 - `selectedColor` (String) `#247fd2` - The selected color of the checkbox background
